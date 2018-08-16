@@ -14,6 +14,7 @@
 		25528E3521259843006092EE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 25528E3321259843006092EE /* LaunchScreen.storyboard */; };
 		25528E4021259843006092EE /* Egg_TimerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25528E3F21259843006092EE /* Egg_TimerTests.swift */; };
 		25528E4B21259843006092EE /* Egg_TimerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25528E4A21259843006092EE /* Egg_TimerUITests.swift */; };
+		25528E592125A5AB006092EE /* screenshot.png in Resources */ = {isa = PBXBuildFile; fileRef = 25528E582125A5AB006092EE /* screenshot.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		25528E4621259843006092EE /* Egg TimerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Egg TimerUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		25528E4A21259843006092EE /* Egg_TimerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Egg_TimerUITests.swift; sourceTree = "<group>"; };
 		25528E4C21259843006092EE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		25528E582125A5AB006092EE /* screenshot.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screenshot.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 		25528E1E21259841006092EE = {
 			isa = PBXGroup;
 			children = (
+				25528E582125A5AB006092EE /* screenshot.png */,
 				25528E2921259841006092EE /* Egg Timer */,
 				25528E3E21259843006092EE /* Egg TimerTests */,
 				25528E4921259843006092EE /* Egg TimerUITests */,
@@ -232,6 +235,7 @@
 				25528E3521259843006092EE /* LaunchScreen.storyboard in Resources */,
 				25528E3221259843006092EE /* Assets.xcassets in Resources */,
 				25528E3021259841006092EE /* Main.storyboard in Resources */,
+				25528E592125A5AB006092EE /* screenshot.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
